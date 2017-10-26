@@ -68,7 +68,7 @@ echo
 echo "Now some details on how you want to install MyHero."
 echo
 echo "What do you want your deployment to be named?  "
-echo "For example, with a name of \"myhero\", you will visit http://myhero-web.${MANTL_DOMAIN} to view the application"
+echo "For example, with a name of \"myhero\", you will visit http://myhero-ui.${MANTL_DOMAIN} to view the application"
 read deployment_name
 echo
 
