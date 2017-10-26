@@ -2,7 +2,7 @@
     "container": {
         "type": "DOCKER",
         "docker": {
-            "image": "juliocisco/myhero_data:TAG",
+            "image": "hpreston/myhero_data:TAG",
             "forcePullImage": true,
             "network": "BRIDGE",
             "portMappings": [{
